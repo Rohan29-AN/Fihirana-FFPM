@@ -13,7 +13,7 @@ Ity **repositories** ity dia misy ny version JSON an'ireo hira hita ao anatin'ny
 
 1. Fampidirana an'ireo tononkira FFPM tsy feno *(820 hatramin'ny 827)*.
 2. Fampidirana ny lohateny sy ny mpanoratra ho an'ny hira rehetra.
-3. Famoronana ny **SQL**
+3. Famoronana ny **SQL** (mendrika261 Mendrika Ramialison)
 4. ....Tsy mbola haiko fa apetrako eto ihany rehefa mahita izaho 😁😁.
 
 ###   Handray anjara ?
@@ -24,9 +24,9 @@ Ity **repositories** ity dia misy ny version JSON an'ireo hira hita ao anatin'ny
 - Push-eo @ izay *(git push origin branch_ko)*
 - Mamoronà **Pull request**
 
-`MG : `Isaorana avokoa ireo nanampy (@hearoy) nahafahana nananganana ity projet kely ity.
+`MG : `Isaorana avokoa ireo nanampy (@hearoy && mendrika261) nahafahana nananganana ity projet kely ity.
 
-`EN : ` Thank you to everyone (@hearoy) who contributed  to the creation of this project.
+`EN : ` Thank you to everyone (@hearoy && mendrika261) who contributed  to the creation of this project.
 
 Mankasitraka / Thank you
 
