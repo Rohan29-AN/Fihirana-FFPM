@@ -1,262 +1,334 @@
 {
-    "1": {
+    "antema_1": {
+        "laharana": "1",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Masina, Masina\nJehovah Tompo!\nFeno ny voninahitrao\nIzao rehetra izao,\nry Tompo ô! Amena.",
             "fiverenany": false
         }]
     },
-    "2": {
+    "antema_2": {
+        "laharana": "2",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Toy ny diera maniry ny rano an'ony,\nny foko maniry Anao.\nRy fanahiko! nahoana moa no\nmitanondrika hianao,\nka mitoloko ao anatiko? Manantenà ny\nTomponao.",
             "fiverenany": false
         }]
     },
-    "3": {
+    "antema_3": {
+        "laharana": "3",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Ny Tompo hajao\nnoho ny fahamarinany\nsy ny fahamasinany.\nMatahora Azy re,\nry vahoaka marobe!\nNy voninahiny mahagaga.\nHe ny heriny sy ny hatsaràny",
             "fiverenany": false
         }]
     },
-    "4": {
+    "antema_4": {
+        "laharana": "4",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": ":,: Ary maro, ary maro, ary maro\namin'izay matory ao, matory ao,\nmatory ao, matory ao,\namin'ny vovoky ny tany no hifoha, no\nhifoha, no hifoha.:,:\n:,: Ary izay hendry dia hamirapiratra,\nary izay hendry dia hamirapiratra,\nary izay hendry dia hamirapiratra,\ntoy ny famirapiratry ny lanitra.:,:\n:,: Ary izay mamerina ny maro,\nary izay mamerina ny maro,\nho amin'ny fahamrinana,\ndia ho tahaka ny kintana mandrakizay\ndoria.:,:\nAmena.",
             "fiverenany": false
         }]
     },
-    "5": {
+    "antema_5": {
+        "laharana": "5",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Indro ny aron'ny mandanao,\nRy Jerosalema! Miadàna ka mandria\nfahizay.\nMandry tokoa ny tany izao.\nFa jehovah manampy anao, ka aza kivy\nfo..\nAza mangina, fa ny faneva no\natsangano.\nHaleloia! Amena.",
             "fiverenany": false
         }]
     },
-    "6": {
+    "antema_6": {
+        "laharana": "6",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Miderà, miderà, miderà an'i Jehovah.\nMiderà an'i Jehovah, ry firenena rehetra.\n:,: Miderà, miderà, miderà Azy, ry olona,\nry olona rehetra.\nMiderà Azy, ry olona rehetra.\nMiderà Azy, ry olona rehetra.\nFa lehibe ny famindrampony amintsika,\nFa lehibe ny famindrampony amintsika.\nAry mandrakizay, ary mandrakizay, ary\nmandrakizay\nny fahamarinan'i Jehovah.\nHaleloia, Haleloia, Haleloia, Haleloia,\nHaleloia!:,:",
             "fiverenany": false
         }]
     },
-    "7": {
+    "antema_7": {
+        "laharana": "7",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": ":,: Tamin'ny andro voalohany amin'ny\nherinandro,\ndia nankany amin'ny fasana izy,\nnitondra zava-manitra izay efa\nnamboariny.:,:\n:,: Ary hitany fa indro ny vato efa\nvoakodia niala tamin'ny fasana.\nDia niditra izy, nefa tsy hitany ny\nfatin'i Jesosy Tompo.\nAry raha mbola very hevitra\ntamin'izany izy ireo,\nindreo nisy roalahy niseho taminy,\nnitafy fitafianà manelatrelatra.:,:\n:,: Ary nony natahotra izy ka\nniankohoka,\ndia hoy izy roalahy taminy.\nNahoana no ato amin'ny maty no\nitadiavanareo ny velona?\nTsy ato Izy fa efa nitsangana;\ntsarovy ny teny izay nataony taminareo,\nfony lzy mbola tany Galilia hoe: :,:\nNy Zanakolona tsy maintsy hatolotra\neo an-tànan'ny mpanota ki hohomboana\namin'ny hazo fijaliana, ary, ary,\nhitsangana,\nhitsangana amin'ny andro fahatelo.:,:",
             "fiverenany": false
         }]
     },
-    "8": {
+    "antema_8": {
+        "laharana": "8",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "hoderaiko\nMandrakizay ny Anaranao no hoderaiko\neram-po, eran-tsaina.\nHianao, ry Jehovah!\nno hoderaiko eram-po, eran-tsaina;\nfa tsara sady miantra Jehovah,\nmahatsindry fo ka tsy maika.\nIzao asany rehetra izao dia samy tiony\nsy amindrany fo.\nNy Anarany lehibe hoderaiko sy\nhankalazaiko.",
             "fiverenany": false
         }]
     },
-    "9": {
+    "antema_9": {
+        "laharana": "9",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "An'i Kristy ny fanjakana,\nAzy izao na ny hery,\nna ny fahefana,\nna ny fandresena.\nAzy koa na ny voninahitra,\nna ny fiandriananan\nna ny laza Mpanjaka mandrakizay\nKristy Tomponay.\nAzy irery ny seza fiandrianana\nsy ny satro-boninahitra.\nAzy izao sy mandrakizay.",
             "fiverenany": false
         }]
     },
-    "10": {
+    "antema_10": {
+        "laharana": "10",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Ziona!\nO! mihobia, ry vahoaka any Ziona!\nFa indro, ny Masina Jehovah\nMpanavotra,\nMitsangan-kitahy eo afovoanareo,\nHahatsara an'i Ziona mba ho tany\nhiadananareo.\nSambatra ao Ziona fonenanareo.\nEndre, ny tranom¬panjakana ao Ziona!\nIzahao. Hotantaraina hatramin'ny\nfarany,\nsamy hahare izay taranakareo.\nO! mihobia, ry vahoaka any zona!\nFa indro, Jehovah eo afovoanareo.",
             "fiverenany": false
         }]
     },
-    "11": {
+    "antema_11": {
+        "laharana": "11",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "O, lanitra! O, tany masina!\nRaha tapitra ny asanay,\ndia ravo aminao.\nNy mandanao no hitanay,\nsy vavahady soa;\nny lalam-bolamena koa no hodiavinay.\nFonena-mahasambatra,\ntsy misy heloka.\nNy làlana mahazo ao no mba hizorako.\nO, lanitra! O, tany masina!\nNahoana ny ho faty re no hatahorako?\nNy lanitra honenako mandrakizay\ndoria.\nO, lanitra! fonena-masina!\nO, lanitra! ny dianay havitrika ho tonga\naminao.\nO, lanitra! ho tonga aminao.",
             "fiverenany": false
         }]
     },
-    "12": {
+    "antema_12": {
+        "laharana": "12",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "He ny aiko\nTsy lalaiko\nHamonjeko ny fanahinao;\nFamonjena\nNo nomena,\nKanefa tsipahinao.\nMenatre aho,\nRy Mpamonjy!\nMamelà ny mpanomponao!\nFa ny tena\nSy fanahy\nOmeko Anao izao.",
             "fiverenany": false
         }]
     },
-    "13": {
+    "antema_13": {
+        "laharana": "13",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "asanao\nAkory ny hamaroan'ny asanao, ry\nJehovah ô! Fahendrena no nanaovanao\nazy rehetra. Henika ny asanao izao\ntontolo izao. Ao ny ranomasina feno\nzava-manana aina, na kely na lehibe.\nIndro ny lanitra, feno famirapiratana\nmahagaga; ary ny tany rehetra samy\nfeno zavatra avokoa, ka mampiseho ny\nvoninahitrao, Andriamanitra ô!",
             "fiverenany": false
         }]
     },
-    "14": {
+    "antema_14": {
+        "laharana": "14",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "miakanjo fotsy lava\nHaleloia! Iza moa ireo miakanjo fotsy\nlava, ary avy taiza izy ireo? Ireo no avy\ntamim-pahoriana lehibe, ny akanjony\nnosasany sy nofotsiany tamin'ny ran'ny\nZanakondry! Haleloia! Ary noho izany\ndia mitoetra eo anoloan'ny seza\nfiandrianan'Andriamanitra izy, ka\nmanompo Azy andro aman'alina eo\namin'ny tempoly. Tsy ho noana na\nhangetaheta intsony ireo, fa ny\nzanak'ondry izay eo afovoan'ny seza\nfiandrianana no ho Mpiandry azy, ka\nhitondra azy amin'ny ranon'aina, ary\nhofafan'Andriamanitra ny ranomasony\nrehetra amin'ny masony.",
             "fiverenany": false
         }]
     },
-    "15": {
+    "antema_15": {
+        "laharana": "15",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "indrindra\nVoninahitra amin'ny avo indrindra ho\nan'Andriamanitra, ary fiandrianana ho\nAnao, ry Tompon'ny tompo!\nMiankohoka eo anatrehanao izahay.\n:,: Derao, hobio ny Anaran'i Jehovah!\nAzy anie ny dera sy ny laza ety an-tany\nka hatrany an-danitra! Dia hamasino\nizahay, ry Tompo ô, hitoeran'ny\nvoninahitrao.:,:\nVoninahitra amin'ny avo indrindra, ho\nan'Andriamanitra, ary fiandrianana ho\nAnao, ry Tompon'ny tompo!\nMiankohoka eo anatrehanao izahay.",
             "fiverenany": false
         }]
     },
-    "16": {
+    "antema_16": {
+        "laharana": "16",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Isaoranay Jehovah Tomponay,\nisaoranay Andriamanitray; fa be fitia\nny Tomponay, ny Tompo tia anay,\nMpanjaka tia, Mpamindra fo. Deraina\nHianao. Isaoranay izao, fa be fiantra\nHianao, Mpanjaka be fitia. Isaoranay\nny Tomponay. Ny tany aty mandray\nfitahiana; ny lanitra ary mamoaka ny\nsoa, ka misy tokoa ny vokatra tsara,\nJehovah Tsitoha manambina anay.\nDeraina ny Anaranao Andriamanitray.\nHe! faly izahay izao manao ny hiranay!\nIsaoranay Andriananaharinay\nMpanjaka be fitia.",
             "fiverenany": false
         }]
     },
-    "17": {
+    "antema_17": {
+        "laharana": "17",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "amin'ny tendrombohitra aho\nManopy ny masoko ho amin'ny\ntendrombohitra aho. Avy aiza ny\nfamonjena ahy? Ny famonjena ahy avy\namin'i Jehovah, izay namorona ny\nlanitra sy ny tany. Jehovah no Mpiaro\nanao. Ny Tompo no fialofanao eo\namin'ny ankavananao. Ny masoandro\ntsy hamely anao amin'ny atoandro na\nny volana nony alina. Jehovah hiaro\nanao amin'ny ratsy rehetra. Hiaro ny\nfanahinao Izy na mivoaka na miditra,\nhatramin'izao ka mandrakizay; Jehovah\nhiaro anao amin'ny ratsy rehetra\nhatramin'izao ka ho mandrakizay.\nHaleloia! Amena.",
             "fiverenany": false
         }]
     },
-    "18": {
+    "antema_18": {
+        "laharana": "18",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Mpanjaka Tompo Tsara\nSaotra, dera, an'Ilay Mpanjaka Tompo\nTsara, dia Andriamanitra. Izy mitahy\nny taona ka finaritra re ny vahoaka, fa\nIzy miaro ny loza tsy hitranga matetika.\nNy ranonorana tonga hanatsara ny\nzavatra maro; izay fitahiana rehetra dia\nateriny avokoa. Miderà, saotra no atero,\nfa tsy mba diso fanomezana. Izy no\nderao eo anatrehan'ny vahoaka maro.\nMiderà, saotra no atero, fa tsy mba diso\nfanomezana. Izy no derao re, Izy no\nderao eo afovoan'ny fiangonana.",
             "fiverenany": false
         }]
     },
-    "19": {
+    "antema_19": {
+        "laharana": "19",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "anareo\nDidy vaovao no omeko anareo, dia ny\nmba hifankatiavanareo. Eny, aoka ho\ntahaka ny nitiavako anareo, no mba\nhifankatiavanareo koa. Izany no\nhahafantaran'ny olona rehetra fa\nmpianatro hianareo, fa mpianatro\nhianareo, fa mpianatro hianareo, raha\nmifankatia.\nIzao no didiko, izao no didiko, izao no\ndidiko, dia ny mba hifankatiavanareo,\ntahaka ny nitiavako anareo. Tsy misy\nmanana fitiavana lehibe, lehibe noho\nizao: manolotra, manolotra ny ainy\nhamonjy ny sakaizany.",
             "fiverenany": false
         }]
     },
-    "20": {
+    "antema_20": {
+        "laharana": "20",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": ":,:Endrey ny hatsaran'ny trano,\ntranonao, Andriamanitra ô! Maniry anao\nny foko sy fanahiko. Sambatra izay,\nizay mitoetra, sambatra izay mitoetra\nao an-tranonao, tranonao. Hidera Anao,\nTompoko: Tompoko sy\nAndriamanitro.:,: Amen.",
             "fiverenany": false
         }]
     },
-    "21": {
+    "antema_21": {
+        "laharana": "21",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Vatolampy\n:,:Jehovah ô! Hianao no Vatolampy\niorenan'ny finoanay sy fanantenanay,\nJehovah ô, Jehovah ô!:,:\nMpamonjy mora azo indrindra, ka mety\nmba hanavotra izay manota.\nJehovah ô, Hianao no faleha: mijere\nanay, ry Tompo Masina ô! Dia tafionao\nny hery vaovao ny mpanomponao, ho\nmendrika ny asa izay atao izao, aty\nantranonao, noho ny fitiavanao anay.\nKa ny dera aman-data, hery voninahitra\nanie, ho Anao mandrakizay, Jehovah\nTompo ô! Jehovah ô! Jehovah ô!\nJehovah ô! Hianao no faleha: mijere\nanay ry Tompo Masina ô!",
             "fiverenany": false
         }]
     },
-    "22": {
+    "antema_22": {
+        "laharana": "22",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "mandrakizay\nJehovah Tomponay ô! Ray mandrakizay,\nAndriamanitra Mpanjakanay, manerana\nizao rehetra izao ny herinao. Tsy tratry\nny fisainanay ny voninahitrao, an-\ndanitra ao.\nTe-hidera Anao izahay noforoninao.\nKanefa tsy hainay izay vavaka ho enti-\nmankalaza ny fiandriananao. Fa masina\nsady marina, be fahendrena, Hianao\nIzay andohalehan'izao tontolo izao.\nNoho ny famindramponao izay\nmaharitra mandrakizay, Tompo ô! mba\nomeo ny Fanahinao Masina, hifona sy\nhitaraina ho anay. Amin'ny Anaran'i\nJesosy Zanakao, mba henoy ny\nfivavakay.:,:\nNoho ny haben'ny fahasoavanao, ary\nnoho ny fitiavanao, jereo, Tompo ô, ny\nFiangonanao! Mba ampiraiso,\nhatanjaho, arovy izy, mba hijoro\namin'ny Teninao. Ka na mafy ny\ntafiotra sy ny alon-dranomasina, ny\nRan'ny Zanakao no hamonjy azy sy\nhanavotra azy. Ampitomboy ny finoany.\nNy Anaranao ankalazaina mandrakizay,\nsy hanefanay isan'andro nyvoadinay.\nMba raiso ny fisaoranay. Henoy, henoy\nny vavakay, ry Tompo ô!",
             "fiverenany": false
         }]
     },
-    "23": {
+    "antema_23": {
+        "laharana": "23",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": "Andriamanitra ô\nHoderaina ny Anaranao, ry\nAndriamanitra ô! Tompo be\nfahasoavana, mba henoy ny vavakay!\nRy Mpanjakan'ny mpanjaka ô! Raiso ny\nfifonanay! O ry Tompo Mpampionona,\nmba henoy ny vavakay! Mihainoa ny\nvavakay, mihainoa ny vavakay! Tompo\ntia sy Mpamindra fo! Mihainoa anay.\nAmen!",
             "fiverenany": false
         }]
     },
-    "24": {
+    "antema_24": {
+        "laharana": "24",
         "sokajy": "antema",
         "lohateny": "Antema ",
         "isa_andininy": 1,
-        "mpanoratra": [],
+        "mpanoratra": [
+
+        ],
         "hira": [{
             "andininy": 1,
             "tononkira": ":,: Miderà ny Tomponao:,:\nRy Jehovah Tomponay, tafavory\nizahay; avy hankalaza Anao izahay\nvahoakao.\nFaly, ravo izahay noho ny soa azonay;\ntonga mba hisaotra Anao voavotrao\nSaotra tsara entinay, hira no\nasandratray mba ho fiderana Anao\nRain'izao rehetra izao\n(Famaranana :)\nDerao, derao, dera no omena Anao",
