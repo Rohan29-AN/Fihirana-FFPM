@@ -13,9 +13,8 @@ Ity **repositories** ity dia misy ny version JSON an'ireo hira hita ao anatin'ny
 
 1. Fampidirana an'ireo tononkira FFPM tsy feno *(820 hatramin'ny 827)*.
 2. Fampidirana ny lohateny sy ny mpanoratra ho an'ny hira rehetra.
-3. Fampidirana ny lohateny ,ny sokajy ary ny anaran'ny mpanoratra.
-4. Famoronana ny **SQL**
-5. ....Tsy mbola haiko fa apetrako eto ihany rehefa mahita izaho 😁😁.
+3. Famoronana ny **SQL**
+4. ....Tsy mbola haiko fa apetrako eto ihany rehefa mahita izaho 😁😁.
 
 ###   Handray anjara ?
 
