@@ -11,10 +11,9 @@ Ity **repositories** ity dia misy ny version JSON an'ireo hira hita ao anatin'ny
 
 ### Fanatsarana tokony/azo atao
 
-1. Fampidirana an'ireo tononkira FFPM tsy feno *(820 hatramin'ny 827)*.
-2. Fampidirana ny lohateny sy ny mpanoratra ho an'ny hira rehetra.
-3. Famoronana ny **SQL** (mendrika261 Mendrika Ramialison)
-4. ....Tsy mbola haiko fa apetrako eto ihany rehefa mahita izaho 😁😁.
+1. Fampidirana ny lohateny sy ny mpanoratra ho an'ny hira rehetra.
+2. Famoronana ny **SQL** (mendrika261 Mendrika Ramialison)
+3. ....Tsy mbola haiko fa apetrako eto ihany rehefa mahita izaho 😁😁.
 
 ###   Handray anjara ?
 
